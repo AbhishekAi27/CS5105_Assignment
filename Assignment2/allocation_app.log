@@ -1,0 +1,14 @@
+2025-10-30 10:29:05,044 - INFO - Detected CGPA column at index 3 ('CGPA'), preference columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST'], n=18
+2025-10-30 10:29:57,523 - INFO - Detected CGPA column at index 3 ('CGPA'), preference columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST'], n=18
+2025-10-30 10:30:31,786 - INFO - Detected CGPA column at index 3 ('CGPA'), preference columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST'], n=18
+2025-10-30 17:48:23,742 - INFO - Detected CGPA column 'CGPA', n=18 preference columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-30 19:26:51,980 - INFO - Detected CGPA column at index 3 ('CGPA'), preference columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST'], n=18
+2025-10-30 19:31:09,491 - ERROR - Processing error
+Traceback (most recent call last):
+  File "H:\Git_Repo\Assignment_CS5105\DAA_ASSIGN2\Assign2.py", line 119, in <module>
+    st.download_button(
+  File "C:\Users\Abhishek Kumar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\streamlit\runtime\metrics_util.py", line 443, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ButtonMixin.download_button() missing 1 required positional argument: 'data'
+2025-10-30 19:53:27,062 - INFO - Detected CGPA column at index 3 ('CGPA'), preference columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST'], n=18
